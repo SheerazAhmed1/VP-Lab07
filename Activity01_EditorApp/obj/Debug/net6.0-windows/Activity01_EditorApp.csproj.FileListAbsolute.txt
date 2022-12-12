@@ -1,0 +1,17 @@
+E:\Computer Science\Extra Semster\VP\Labs\Lab07\Activity01_EditorApp\bin\Debug\net6.0-windows\Activity01_EditorApp.exe
+E:\Computer Science\Extra Semster\VP\Labs\Lab07\Activity01_EditorApp\bin\Debug\net6.0-windows\Activity01_EditorApp.deps.json
+E:\Computer Science\Extra Semster\VP\Labs\Lab07\Activity01_EditorApp\bin\Debug\net6.0-windows\Activity01_EditorApp.runtimeconfig.json
+E:\Computer Science\Extra Semster\VP\Labs\Lab07\Activity01_EditorApp\bin\Debug\net6.0-windows\Activity01_EditorApp.dll
+E:\Computer Science\Extra Semster\VP\Labs\Lab07\Activity01_EditorApp\bin\Debug\net6.0-windows\Activity01_EditorApp.pdb
+E:\Computer Science\Extra Semster\VP\Labs\Lab07\Activity01_EditorApp\obj\Debug\net6.0-windows\Activity01_EditorApp.csproj.AssemblyReference.cache
+E:\Computer Science\Extra Semster\VP\Labs\Lab07\Activity01_EditorApp\obj\Debug\net6.0-windows\Activity01_EditorApp.Form1.resources
+E:\Computer Science\Extra Semster\VP\Labs\Lab07\Activity01_EditorApp\obj\Debug\net6.0-windows\Activity01_EditorApp.csproj.GenerateResource.cache
+E:\Computer Science\Extra Semster\VP\Labs\Lab07\Activity01_EditorApp\obj\Debug\net6.0-windows\Activity01_EditorApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Computer Science\Extra Semster\VP\Labs\Lab07\Activity01_EditorApp\obj\Debug\net6.0-windows\Activity01_EditorApp.AssemblyInfoInputs.cache
+E:\Computer Science\Extra Semster\VP\Labs\Lab07\Activity01_EditorApp\obj\Debug\net6.0-windows\Activity01_EditorApp.AssemblyInfo.cs
+E:\Computer Science\Extra Semster\VP\Labs\Lab07\Activity01_EditorApp\obj\Debug\net6.0-windows\Activity01_EditorApp.csproj.CoreCompileInputs.cache
+E:\Computer Science\Extra Semster\VP\Labs\Lab07\Activity01_EditorApp\obj\Debug\net6.0-windows\Activity01_EditorApp.dll
+E:\Computer Science\Extra Semster\VP\Labs\Lab07\Activity01_EditorApp\obj\Debug\net6.0-windows\refint\Activity01_EditorApp.dll
+E:\Computer Science\Extra Semster\VP\Labs\Lab07\Activity01_EditorApp\obj\Debug\net6.0-windows\Activity01_EditorApp.pdb
+E:\Computer Science\Extra Semster\VP\Labs\Lab07\Activity01_EditorApp\obj\Debug\net6.0-windows\Activity01_EditorApp.genruntimeconfig.cache
+E:\Computer Science\Extra Semster\VP\Labs\Lab07\Activity01_EditorApp\obj\Debug\net6.0-windows\ref\Activity01_EditorApp.dll
