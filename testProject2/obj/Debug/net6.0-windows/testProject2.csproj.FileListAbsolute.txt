@@ -1,0 +1,17 @@
+E:\Computer Science\Extra Semster\VP\Labs\Lab07\testProject2\bin\Debug\net6.0-windows\testProject2.exe
+E:\Computer Science\Extra Semster\VP\Labs\Lab07\testProject2\bin\Debug\net6.0-windows\testProject2.deps.json
+E:\Computer Science\Extra Semster\VP\Labs\Lab07\testProject2\bin\Debug\net6.0-windows\testProject2.runtimeconfig.json
+E:\Computer Science\Extra Semster\VP\Labs\Lab07\testProject2\bin\Debug\net6.0-windows\testProject2.dll
+E:\Computer Science\Extra Semster\VP\Labs\Lab07\testProject2\bin\Debug\net6.0-windows\testProject2.pdb
+E:\Computer Science\Extra Semster\VP\Labs\Lab07\testProject2\obj\Debug\net6.0-windows\testProject2.csproj.AssemblyReference.cache
+E:\Computer Science\Extra Semster\VP\Labs\Lab07\testProject2\obj\Debug\net6.0-windows\testProject2.Form1.resources
+E:\Computer Science\Extra Semster\VP\Labs\Lab07\testProject2\obj\Debug\net6.0-windows\testProject2.csproj.GenerateResource.cache
+E:\Computer Science\Extra Semster\VP\Labs\Lab07\testProject2\obj\Debug\net6.0-windows\testProject2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Computer Science\Extra Semster\VP\Labs\Lab07\testProject2\obj\Debug\net6.0-windows\testProject2.AssemblyInfoInputs.cache
+E:\Computer Science\Extra Semster\VP\Labs\Lab07\testProject2\obj\Debug\net6.0-windows\testProject2.AssemblyInfo.cs
+E:\Computer Science\Extra Semster\VP\Labs\Lab07\testProject2\obj\Debug\net6.0-windows\testProject2.csproj.CoreCompileInputs.cache
+E:\Computer Science\Extra Semster\VP\Labs\Lab07\testProject2\obj\Debug\net6.0-windows\testProject2.dll
+E:\Computer Science\Extra Semster\VP\Labs\Lab07\testProject2\obj\Debug\net6.0-windows\refint\testProject2.dll
+E:\Computer Science\Extra Semster\VP\Labs\Lab07\testProject2\obj\Debug\net6.0-windows\testProject2.pdb
+E:\Computer Science\Extra Semster\VP\Labs\Lab07\testProject2\obj\Debug\net6.0-windows\testProject2.genruntimeconfig.cache
+E:\Computer Science\Extra Semster\VP\Labs\Lab07\testProject2\obj\Debug\net6.0-windows\ref\testProject2.dll
